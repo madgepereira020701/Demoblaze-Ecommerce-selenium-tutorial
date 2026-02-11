@@ -78,5 +78,4 @@ Note that The automation code is available in the **`python` branch**.
 
 ## Demo Video (Python)
 
-https://github.com/
-<your-username>/<repo-name>/blob/main/video/demo.mp4
+https://github.com/madgepereira020701/Demoblaze-Ecommerce-selenium-tutorial/blob/python/ProgramRunInPython_DemoblazeSeleniumTutorial_madgepereira020701.mp4
