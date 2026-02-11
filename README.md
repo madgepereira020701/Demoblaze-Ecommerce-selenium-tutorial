@@ -1,7 +1,4 @@
-# Demoblaze-Ecommerce-selenium-tutorial
-
-This repository contains Selenium automation for the Demoblaze e-commerce website.  
-Currently, the automation is implemented in **Python**. The JavaScript version will be added in a future update.
+# Demoblaze-Ecommerce-selenium-tutorial (Python)
 
 ## Test Scenario Automated
 <ol>
