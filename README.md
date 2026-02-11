@@ -1,3 +1,7 @@
+
+https://github.com/user-attachments/assets/6ea5f018-d4cc-495c-a263-18dc5ed183d7
+
+https://github.com/user-attachments/assets/1c0b75af-911a-4d7d-8fb2-8bd9e53ac645
 # Demoblaze-Ecommerce-selenium-tutorial
 
 This repository contains Selenium automation for the Demoblaze e-commerce website.  
@@ -78,4 +82,4 @@ Note that The automation code is available in the **`python` branch**.
 
 ## Demo Video (Python)
 
-[Watch Demo Video](https://github.com/madgepereira020701/Demoblaze-Ecommerce-selenium-tutorial/blob/python/ProgramRunInPython_DemoblazeSeleniumTutorial_madgepereira020701.mp4)
+[Watch Demo Video: https://github.com/madgepereira020701/Demoblaze-Ecommerce-selenium-tutorial/blob/python/ProgramRunInPython_DemoblazeSeleniumTutorial_madgepereira020701.mp4](https://github.com/madgepereira020701/Demoblaze-Ecommerce-selenium-tutorial/blob/python/ProgramRunInPython_DemoblazeSeleniumTutorial_madgepereira020701.mp4)
