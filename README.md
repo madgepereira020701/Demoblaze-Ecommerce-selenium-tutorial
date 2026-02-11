@@ -16,7 +16,7 @@ Currently, the automation is implemented in **Python**. The JavaScript version w
   <li>Make a purchase with the empty cart.</li>
   <li>Create a <code>contact.txt</code> file.</li>
   <li>Fill the contact form with the following data:
-  <img width="584" height="123" alt="image" src="https://github.com/user-attachments/assets/c6b57782-84f5-48cd-9677-b162434ee188" />
+  <br><img width="584" height="123" alt="image" src="https://github.com/user-attachments/assets/c6b57782-84f5-48cd-9677-b162434ee188" />
 </li>
   <li>
     For each contact request, write the form details in <code>contact.txt</code> file in the following format:
